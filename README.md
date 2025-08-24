@@ -21,3 +21,6 @@ Here I am learning nest js course 1.Modules,controllers,services,dependecy injec
    c.nest generate service users --no-spec
 
    Note: --no-spec for not to generate test file
+
+2. npm install @nestjs/typeorm typeorm mysql2 dotenv
+3. npm install --save @nestjs/config
