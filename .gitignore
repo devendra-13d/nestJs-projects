@@ -1,0 +1,21 @@
+# Node.js
+node_modules
+dist
+build
+
+# Logs
+logs
+*.log
+
+# Environment files
+.env
+.env.*.local
+
+# IDE/editor
+.vscode
+.idea
+.DS_Store
+
+# Test coverage
+coverage
+.nyc_output
